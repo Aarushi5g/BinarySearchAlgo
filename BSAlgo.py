@@ -25,4 +25,4 @@ result = binary_search(list1, x)
 if result != -1:
     print(f"Element is present at index {(result)} of the list {list1}")
 else:
-    print("Element is not present in array")
+    print(f"Element is not present in the list {list1}")
